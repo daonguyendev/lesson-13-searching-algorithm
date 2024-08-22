@@ -1,6 +1,0 @@
-if (response && response.data) {
-        const posts = response.data.data.content;
-
-}
-
-const posts = response?.data?.data?.content;
